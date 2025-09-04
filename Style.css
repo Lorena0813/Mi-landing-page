@@ -82,7 +82,7 @@ body {
 
 /*Sección para cambiar color de las palabras en la barra de sección*/
 .nav-link {
-    color: rgb(93, 94, 32);
+    color: rgb(250, 218, 221;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease;
@@ -152,7 +152,7 @@ body {
 /*Sección para cambiar colores de fondo, tamaño de letra y alineación del texto o contenedores
 del area de Estudios realizados y experiencia laboral*/
 .list li {
-    background-color: rgb(210, 238, 205);
+    background-color: rgb(250, 218, 221);
     border-left: 5px solid var(--primary-color);
     padding: 1rem;
     margin-bottom: 1rem;
@@ -278,3 +278,4 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
